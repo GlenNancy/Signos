@@ -15,3 +15,7 @@ Um app onde verificar o signo de acordo com a data de nascimento
 <h3>Peixes:</h3> 19 de fevereiro a 20 de março <br> <br>
 
 ![image](https://user-images.githubusercontent.com/116458056/230247901-b74d547e-9012-4dff-96fc-1ca5bca56cd9.png)
+
+## Funcionamento
+
+<p>Digitar o mês (Exemplo: Janeiro, Fevereiro, etc) e o dia (Exemplo: 1, 2, 3...)</p>
